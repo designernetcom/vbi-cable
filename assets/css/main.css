@@ -10858,4 +10858,9 @@ color: #060404 !important;
   .rrow {
     flex-direction: column-reverse;
   }
+  .about1-section-area {
+    position: relative;
+    z-index: 1;
+    padding-top: 20px;
+}
 }
